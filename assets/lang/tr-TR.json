@@ -1,0 +1,27 @@
+{
+    "mainPage": {
+        "aboutAppTitle": "Uygulama Hakkında",
+        "aboutAppSubTitle": "Uygulama  ilk okul çocuklarının matematik kabiliyetini geliştirelerini amaçlamaktadır.",
+        "howToPlay": "Nasıl Oynanır",
+        "howToPlaySubTtile": "Çocuklar önlerine  çıkan sorulara doğru cevap vererek 1 dakika içerisnde en yüksek puana ulaşmaya çalışır",
+        "changeCharacter": "Yanına alacağın arkadaşını değiştir",
+        "addPage": "Haydi toplama yapalım",
+        "minusPage": "Haydi çıkarma yapalım",
+        "changeAppLang": "Uygulama dili değiştir",
+        "changeAppTheme": "Uygulama teması değiştir"
+    },
+    "selectBuddy": {
+        "chooseChar": "Yanınıza almak istediğiniz arkadaşınızı seçin"
+    },
+    "mathPage": {
+        "trueAnswer": "Doğru cevap Puanınız:",
+        "wrongAnswer": "Yalnış cevap Puanınız:",
+        "gameOver": "Oyun bitti",
+        "timeToEnd": "kalan zaman:"
+    },
+    "endPage": {
+        "restart": "Baştan  Başlayalım",
+        "shareMyScore": "Skorumu paylaş",
+        "shareScore": "MathApp uygulamasında 60 saniyede matematik işlemleri çözrek yaptığım skor:"
+    }
+}

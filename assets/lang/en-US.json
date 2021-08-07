@@ -1,0 +1,27 @@
+{
+  "mainPage": {
+    "aboutAppTitle": "About the application",
+    "aboutAppSubTitle": "The application aims to develop the first school children's mathematical ability.",
+    "howToPlay": "How to play",
+    "howToPlaySubTtile": "Children tries to reach the highest score within 1 minute by responding to the questions leading to their front",
+    "changeCharacter": "Change the friend you will get next to",
+    "addPage": "Let's pick up gathering",
+    "minusPage": "Let's get extraction",
+    "changeAppLang": "Application changes the language",
+    "changeAppTheme": "Change application contact"
+  },
+  "selectBuddy": {
+    "chooseChar": "Choose your friend you wish to take with you"
+  },
+  "mathPage": {
+    "trueAnswer": "Your correct answer score:",
+    "wrongAnswer": "Your incorrect answer score:",
+    "gameOver": "Game over",
+    "timeToEnd": "Remaining time:"
+  },
+  "endPage": {
+    "restart": "Let's start over",
+    "shareMyScore": "Share the score",
+    "shareScore": "Mathematics in Mathapp application in 60 seconds I have made a solution to the score:"
+  }
+}
